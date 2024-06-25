@@ -32,4 +32,3 @@ for script in ./flatpaks/*.sh; do source $script; done
 
 # Upgrade everything that might ask for a reboot last
 sudo apt upgrade -y
-
