@@ -7,7 +7,7 @@ This repo can be used to start the basic setup of your applications in Debian 12
 
 ## Usage
 
-To be entered.
+To be entered here.
 
 ## Special thanks to
 

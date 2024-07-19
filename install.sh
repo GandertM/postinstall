@@ -22,13 +22,13 @@ source ./functions.sh
 source ./colors.sh
 
 # Install prereqs
-for script in ./prereqs/*.sh; do source $script; done
+for script in ./prereqs/*.sh; do source "$script"; done
 
 # Install apps
-for script in ./apps/*.sh; do source $script; done
+for script in ./apps/*.sh; do source "$script"; done
 
 # Install flatpaks
-for script in ./flatpaks/*.sh; do source $script; done
+for script in ./flatpaks/*.sh; do source "$script"; done
 
 # Upgrade everything that might ask for a reboot last
 sudo apt upgrade -y
