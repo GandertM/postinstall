@@ -16,5 +16,3 @@ export COLOR_CYAN='\e[0;36m'
 export COLOR_LIGHT_CYAN='\e[1;36m'
 export COLOR_LIGHT_GRAY='\e[0;37m'
 export COLOR_WHITE='\e[1;37m'
-
-# some comment
