@@ -14,6 +14,7 @@ set -e
 sudo apt update -y
 
 # Variables
+# no variables yet
 
 # Functions
 source ./functions.sh
