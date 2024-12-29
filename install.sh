@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Post inslattion for Debian 12
+# Post installation for Debian 12
 #
 # Based on the ideas of omakub (https://github.com/basecamp/omakub)
 # Thanks for the tip to Linux Unplugged crew
